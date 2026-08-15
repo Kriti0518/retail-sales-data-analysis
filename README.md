@@ -94,4 +94,4 @@ This project demonstrates practical Data Analyst skills including data cleaning,
 
 **Kriti Kumari**
 
-B.Tech CSE — Data Science
+B.Tech CSE 
